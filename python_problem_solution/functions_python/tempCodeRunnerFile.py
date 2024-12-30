@@ -1,0 +1,1 @@
+a_formetted = '{:.2f}'.format(a)

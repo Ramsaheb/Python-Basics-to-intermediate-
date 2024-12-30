@@ -1,0 +1,7 @@
+# for temporary setup
+# Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+
+
+# for permanant set up
+# Set-ExecutionPolicy -Scope LocalMachine -ExecutionPolicy Bypass
